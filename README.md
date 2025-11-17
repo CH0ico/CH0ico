@@ -9,9 +9,3 @@
 </p>
 
 ![Metrics](/github-metrics.svg)
-
-<div align="">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=CH0ico" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CH0ico&layout=compact&langs_count=8" />
-<span>  </span>
-</div>
